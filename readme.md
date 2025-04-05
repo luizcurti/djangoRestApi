@@ -1,15 +1,15 @@
-## Django Rest API
+# Rest API
 
 This project demonstrates a simple REST API built with Django and an SQLite database.
 
-# Features
+## Features
 Basic CRUD operations
 
 SQLite database integration
 
 Simple, easy-to-understand project structure for learning
 
-# Installation
+## Installation
 1. Clone the repository:
 * git clone https://github.com/luizcurti/djangoRestApi.git
 
@@ -25,5 +25,5 @@ Simple, easy-to-understand project structure for learning
 5. Start the development server:
 * python manage.py runserver
 
-# Usage
+## Usage
 The API is now running on http://127.0.0.1:8000/. You can access various endpoints to perform CRUD operations.
